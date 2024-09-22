@@ -1,5 +1,5 @@
 # Starbucks Customer Segmentation
-By- Abhigyan Kumar
+By- __Abhigyan Kumar__
 
 Customer segmentation for Starbucks reward program members on the basis of their reactions to offers, to further assist marketing team design marketing strategies accordingly.
 
