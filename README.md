@@ -1,4 +1,6 @@
 # Starbucks Customer Segmentation
+By- Abhigyan Kumar
+
 Customer segmentation for Starbucks reward program members on the basis of their reactions to offers, to further assist marketing team design marketing strategies accordingly.
 
 * __ML Techniques used__ : K-Means, PCA, t-SNE, Gaussian Mixture Models, Silhouette plot, SSE/Inertia, Cluster Analysis
